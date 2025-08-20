@@ -2,9 +2,9 @@
 # D03 - Network Segmentation and Firewalling
 
 
-#Steps
+# Steps
 
-#Clone Code:
+# Clone Code:
 - git clone https://github.com/yuvaraju1/d03.git
 - cd d03
 # Build Docker images:
