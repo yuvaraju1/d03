@@ -7,9 +7,9 @@ Steps:
 git clone https://github.com/yuvaraju1/d03.git
 cd d03
 #Build Docker images:
--docker build -t webapp ./webapp
--docker build -t backend ./backend
--docker build -t admin ./admin
+- docker build -t webapp ./webapp
+- docker build -t backend ./backend
+- docker build -t admin ./admin
 #Tag docker images:
 docker tag webapp yuvaraju11/d03:webapp
 docker tag backend yuvaraju11/d03:backend
