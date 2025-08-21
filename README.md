@@ -30,7 +30,7 @@
 - docker exec -it container1 sh
 - apt update && apt install -y curl
 - curl https://5000-port-3ncto2ucv3kgoe7j.labs.kodekloud.com/
-* output
+* output: 
 - Webapp says hello!
 # How to fix it (basic network segmentation)
 # Create networks
